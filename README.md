@@ -9,7 +9,7 @@
 7) fiz a juncao dessas colunas com seus respectivos pilares e indicadores
 8) por fim exportei para o excel
 
-#O que eu tive que pesquisar
+# O que eu tive que pesquisar
 1) como ler dados de tabelas do excel
 2) como exportar dados para o excel
 3) pd.insert
