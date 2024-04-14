@@ -5,7 +5,7 @@
   3) e botao de importar arquivos
 
 
-# teste ranking
+# oque eu fiz?
 
 1) primeiramente importei os dados para o colab
 2) removi as folhas de indice, Descricoes, geral e auxiliar
