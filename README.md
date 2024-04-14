@@ -1,8 +1,8 @@
 # Para testar
 1) tem que importar as entradas no diretorio raiz do colab
-  - clicar na pasta
-  - 3 pontinhos
-  - e botao de importar arquivos
+  1) clicar na pasta
+  2) 3 pontinhos
+  3) e botao de importar arquivos
 
 
 # teste ranking
