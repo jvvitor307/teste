@@ -1,3 +1,10 @@
+# Para testar
+1) tem que importar as entradas no diretorio raiz do colab
+  - clicar na pasta
+  - 3 pontinhos
+  - e botao de importar arquivos
+
+
 # teste ranking
 
 1) primeiramente importei os dados para o colab
